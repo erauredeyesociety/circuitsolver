@@ -1,0 +1,24 @@
+{
+  "name": "circuitsolver",
+  "version": "1.0.0",
+  "description": "verilog but for normal circuits",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erauredeyesociety/circuitsolver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erauredeyesociety/circuitsolver/issues"
+  },
+  "homepage": "https://github.com/erauredeyesociety/circuitsolver#readme",
+  "dependencies": {
+    "circuitsolver": "file:",
+    "electron": "^34.1.1"
+  }
+}
